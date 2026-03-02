@@ -1,24 +1,8 @@
-# Hello Hello 👋
+# Hey 👋
 
-My name is Matéo Lévesque. I study linguistics at Laval University.
+My name is Matéo Lévesque. I study linguistics at Université Laval.
 
-- 🔭 I’m currently working on [fun-o](https://github.com/MateoLevesque/fun-o) a prolog module to interact with phonology.
-- 🌳 I'm interested by computational linguistics, phonology, Linux systems and game devlopment.
+- 💡 I'm interested by computational linguistics, phonology, Linux systems and game devlopment.
 - 🗨️ Join my [discord server](https://discord.gg/z2NYR2fAQQ) to chat about anything!
-- My website is in construction (available soon).
-- Languages: 🇫🇷 🇨🇦 🇩🇪 🇳🇴
-
-<!--
-**MateoLevesque/MateoLevesque** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌐 [My website here](https://mateolevesque.netlify.app/)
+- ㊙️ Languages: 🇫🇷 🇨🇦 🇩🇪 🇳🇴
